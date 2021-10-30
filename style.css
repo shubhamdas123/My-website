@@ -1,0 +1,83 @@
+.nav {
+    text-align: center;
+}
+
+#profile {
+    height: 400px;
+    width: 700px;
+    border-radius: 50px;
+    border: black;
+    border-width: 5px;
+    border-style: solid;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#About_me {
+    text-align: center;
+}
+
+#about-section {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    text-align: left;
+}
+
+.movie_head span {
+    margin-right: 10px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
+
+.videos {
+    height: 350px;
+}
+
+.certificates {
+    height: 400px;
+    width: 300px;
+}
+
+.line {
+    width: 100%;
+    background-color: white;
+}
+
+.list-item {
+    margin-bottom: 20px;
+}
+
+#contact iframe {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.list-group {
+    margin-bottom: 20px;
+}
